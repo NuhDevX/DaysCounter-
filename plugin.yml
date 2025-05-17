@@ -1,0 +1,6 @@
+name: DaysCounter
+main: ZhaDev\dc\Main
+version: 1
+description: can see the number of days
+api: 5.0.0
+author: ZhaDev
